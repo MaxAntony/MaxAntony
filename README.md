@@ -1,11 +1,4 @@
-github profile markdown generator logo
-Github Profile README Generator
- Star this repo 957
- Fork on Github 113
- back to edit
- copy-markdown
- download
- preview
+
 <h1 align="center">Hi 👋, I'm Max Antony</h1>
 <h3 align="center">A Web Developer from Perú</h3>
 
@@ -20,7 +13,3 @@ Github Profile README Generator
 <a href="https://linkedin.com/in/max-antony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="max-antony" height="30" width="30" /></a>
 <a href="https://fb.com/maxcamito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maxcamito" height="30" width="30" /></a>
 </p>
-About
-Addons
-Support
-Developed in India 🇮🇳
